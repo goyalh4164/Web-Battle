@@ -1,7 +1,5 @@
 import React from "react";
 import {
-  AiFillGoogleCircle,
-  AiFillAmazonCircle,
   AiFillYoutube,
   AiFillInstagram,
   AiFillGithub
